@@ -5,4 +5,5 @@ we have to tolerate ViRu BeSt prof for sometime, which can't be avoided but usin
 2. Subtraction.
 3. XOR operation.
 4. NAND operation output must be a output(16 bits) and carry(for addition and subtraction) and a Z output which is 1 when output is 0.
-(Also i have not yet done fast adder also we might need to do subtraction with fast adders too!!)
+    
+    (Also i have not yet done fast adder also we might need to do subtraction with fast adders too!!)
