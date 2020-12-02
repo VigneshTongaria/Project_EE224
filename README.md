@@ -9,3 +9,4 @@ we have to tolerate ViRu BeSt prof for sometime, which can't be avoided but usin
 output must be a output(16 bits) and carry(for addition and subtraction) and a Z output which is 1 when output is 0.
     
    test bench is required for confirmation of ALU above.
+   Also i have uploaded seperate file ALU which uses port map of carry and generation(carry and gen) unlike ALU_1 which directly does it.
