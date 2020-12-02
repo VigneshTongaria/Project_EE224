@@ -50,7 +50,7 @@ begin
 				gi(i) <= x_1(i) AND y_1(i);
 				pi(i) <= x_1(i) XOR y_1(i);
 				xor16(i) <= pi(i) AND control4;
-				nand16(i) <= gi(i) AND control3;
+				nand16(i) <= (NOT gi(i)) AND control3;
 		 end generate;
 		 
 	        g1(0) <= gi(0);
