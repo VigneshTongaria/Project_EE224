@@ -106,7 +106,7 @@ total_output:		for i in 1 to 15 generate
 		      output(i) <= sum(i) OR xor16(i) OR nand16(i);
 				zi(i) <= zi(i-1) OR output(i);
 				end generate;
-	z <= zi(15);			
+	z <= NOT(zi(15));			
 end logic;
 			
 	   
