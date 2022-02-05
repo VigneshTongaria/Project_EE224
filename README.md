@@ -1,5 +1,5 @@
 # Project"A"_EE224
-We have to tolerate ViRu BeSt prof for sometime, which can't be avoided but using VHDL  is really intresting :) Arithmetic Logical Unit (ALU) for computing for two inputs X and Y (16 bits) and two control inputs S1 and S0;
+Using VHDL  is really intresting :) Arithmetic Logical Unit (ALU) for computing for two inputs X and Y (16 bits) and two control inputs S1 and S0;
 
 1. Fast adder( not ripple carry adder).
 2. Subtraction.
